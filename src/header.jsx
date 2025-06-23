@@ -1,7 +1,7 @@
 import reactlogo from "./assets/react.svg";
 
 export default function Header({darkMode, toggleMode}) {
-    console.log("Header Render")
+    
   return (
 
     <header className="header">
