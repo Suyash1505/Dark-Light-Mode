@@ -31,13 +31,11 @@ body {
 }
 
 .container.light {
-  background-color: #ffffff;
   background-image: url("./assets/bg-light.png");
   color: #20232a;
 }
 
 .container.dark {
-  background-color: #1e1e1e;
   background-image: url("./assets/bg-dark.png");
   color: #ffffff;
 }
